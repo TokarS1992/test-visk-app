@@ -1,0 +1,17 @@
+<div class="left-bar">
+    <mat-list role="list" class="left-bar__list navbar-nav">
+        <h3 mat-subheader>Category</h3>
+
+        <mat-list-item role="listitem" [routerLinkActiveOptions]="{ exact:true }">
+            <a routerLink="/mobiles" routerLinkActive="disabled" class="nav-item nav-link">Mobiles</a>
+        </mat-list-item>
+
+        <mat-list-item role="listitem">
+            <a routerLink="/notebooks" routerLinkActive="disabled" class="nav-item nav-link">Notebooks</a>
+        </mat-list-item>
+
+        <mat-list-item role="listitem">
+            <a routerLink="/all" routerLinkActive="disabled" class="nav-item nav-link">All</a>
+        </mat-list-item>
+    </mat-list>
+</div>

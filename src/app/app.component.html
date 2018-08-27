@@ -1,0 +1,11 @@
+<mat-sidenav-container class="h-100vh">
+    <mat-sidenav mode="side" opened class="left-bar">
+        <app-left-bar></app-left-bar>
+    </mat-sidenav>
+
+    <mat-sidenav-content class="content">
+        <main class="main" [ngClass]="nameView ? nameView.replace(' ', '-') : ''">
+            <router-outlet></router-outlet>
+        </main>
+    </mat-sidenav-content>
+</mat-sidenav-container>

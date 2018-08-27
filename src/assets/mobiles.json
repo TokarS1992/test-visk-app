@@ -1,0 +1,17 @@
+[
+  {"name":"LG", "trademark":"LG 1", "price":3000, "currency":"UAH"},
+  {"name":"LG", "trademark":"LG 2", "price":4200, "currency":"UAH"},
+  {"name":"LG", "trademark":"LG 3", "price":7000, "currency":"UAH"},
+
+  {"name":"Motorola", "trademark":"Motorola 1", "price":2000, "currency":"UAH"},
+  {"name":"Motorola", "trademark":"Motorola 2", "price":4000, "currency":"UAH"},
+  {"name":"Motorola", "trademark":"Motorola 3", "price":6000, "currency":"UAH"},
+
+  {"name":"Nokia", "trademark":"Nokia 1", "price":3300, "currency":"UAH"},
+  {"name":"Nokia", "trademark":"Nokia 2", "price":4300, "currency":"UAH"},
+  {"name":"Nokia", "trademark":"Nokia 3", "price":5300, "currency":"UAH"},
+  {"name":"Nokia", "trademark":"Nokia 4", "price":5300, "currency":"UAH"},
+
+  {"name":"Meizu", "trademark":"Meizu 1", "price":4600, "currency":"UAH"},
+  {"name":"Meizu", "trademark":"Meizu 2", "price":5500, "currency":"UAH"}
+]

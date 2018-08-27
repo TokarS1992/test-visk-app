@@ -1,0 +1,27 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+@import "./variables";
+@import "./mixins";
+@import "./bootstrap.config";
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  .full-width {
+    width: 100%;
+  }
+  
+  .pointer {
+    cursor: pointer;
+  }
+
+  .no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+
+    > .col,
+    > [class*="col-"] {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+}

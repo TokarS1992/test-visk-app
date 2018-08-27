@@ -1,0 +1,16 @@
+$sizes: () !default;
+
+$sizes: map-merge(
+    (
+            25: 25%,
+            50: 50%,
+            75: 75%,
+            100: 100%,
+            '100vh': 100vh,
+            '75vh': 75vh,
+            '50vh': 50vh,
+            '25vh': 25vh,
+            auto: auto
+    ),
+    $sizes
+);

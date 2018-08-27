@@ -1,0 +1,22 @@
+[
+  {"name":"Lenovo", "trademark":"Lenovo 1", "price":1000, "currency":"UAH"},
+  {"name":"Lenovo", "trademark":"Lenovo 2", "price":2000, "currency":"UAH"},
+  {"name":"Lenovo", "trademark":"Lenovo 3", "price":3000, "currency":"UAH"},
+
+  {"name":"HP", "trademark":"HP 1", "price":5500, "currency":"UAH"},
+  {"name":"HP", "trademark":"HP 2", "price":6800, "currency":"UAH"},
+  {"name":"HP", "trademark":"HP 3", "price":7900, "currency":"UAH"},
+  {"name":"HP", "trademark":"HP 4", "price":8500, "currency":"UAH"},
+
+  {"name":"ASUS", "trademark":"Asus 1", "price":1500, "currency":"UAH"},
+  {"name":"ASUS", "trademark":"Asus 2", "price":2500, "currency":"UAH"},
+  {"name":"ASUS", "trademark":"Asus 3", "price":6500, "currency":"UAH"},
+
+  {"name":"Aser", "trademark":"Aser 1", "price":4300, "currency":"UAH"},
+  {"name":"Aser", "trademark":"Aser 2", "price":6300, "currency":"UAH"},
+  {"name":"Aser", "trademark":"Aser 3", "price":7300, "currency":"UAH"},
+  {"name":"Aser", "trademark":"Aser 4", "price":8300, "currency":"UAH"},
+  {"name":"Aser", "trademark":"Aser 5", "price":9300, "currency":"UAH"},
+  {"name":"Aser", "trademark":"Aser 6", "price":10300, "currency":"UAH"},
+  {"name":"Aser", "trademark":"Aser 7", "price":11300, "currency":"UAH"}
+]
